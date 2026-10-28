@@ -1,0 +1,1 @@
+creates draft1.txt file
